@@ -1,0 +1,4 @@
+https://angularexperts.io/
+Tomas Trajan
+https://github.com/tomastrajan
+https://github.com/angular-extensions/model

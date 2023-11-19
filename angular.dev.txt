@@ -1,6 +1,24 @@
 angular.dev
 https://angular.dev/tutorials
+https://angular.dev/tutorials/learn-angular
+https://angular.dev/tutorials/first-app
+
+
 https://angular.dev/playground
+
+https://angular.dev/essentials/components
+https://angular.dev/essentials/managing-dynamic-data
+https://angular.dev/essentials/rendering-dynamic-templates
+https://angular.dev/essentials/conditionals-and-loops
+https://angular.dev/essentials/handling-user-interaction
+https://angular.dev/essentials/sharing-logic
+
+https://angular.dev/guide/di
+https://angular.dev/guide/components/importing
+https://angular.dev/guide/forms
+https://angular.dev/guide/templates
+
+https://angular.dev/guide/signals
 
 https://angular.dev/roadmap
 

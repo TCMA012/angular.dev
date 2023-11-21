@@ -14,6 +14,14 @@ https://angular.dev/essentials/handling-user-interaction
 https://angular.dev/essentials/sharing-logic
 
 https://angular.dev/guide/di
+
+https://angular.dev/guide/di/dependency-injection-context
+CanActivateFn are not displayed as source codes.
+
+https://angular.dev/guide/di/hierarchical-dependency-injection
+
+
+
 https://angular.dev/guide/components/importing
 https://angular.dev/guide/forms
 https://angular.dev/guide/templates

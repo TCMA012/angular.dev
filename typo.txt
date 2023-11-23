@@ -1,0 +1,41 @@
+https://angular.dev/guide/di/dependency-injection-context
+CanActivateFn are not displayed as source codes.
+
+
+
+https://angular.dev/guide/di/hierarchical-dependency-injection
+<app-root>
+  <#VIEW>
+    <app-child>
+     <#VIEW>
+       …content goes here…
+     </#VIEW>
+    </app-child>
+  <#VIEW>
+<app-root>
+
+should be
+<app-root>
+  <#VIEW>
+    <app-child>
+     <#VIEW>
+       …content goes here…
+     </#VIEW>
+    </app-child>
+  </#VIEW> ********** missing /
+<app-root>
+
+
+
+https://angular.dev/guide/di/hierarchical-dependency-injection
+TitleService
+
+should be
+TiresService
+
+
+
+https://angular.dev/guide/forms/dynamic-forms
+ngSwitch
+should be
+@switch

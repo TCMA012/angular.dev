@@ -15,18 +15,56 @@ https://angular.dev/essentials/sharing-logic
 
 https://angular.dev/guide/di
 
+https://angular.dev/guide/di/dependency-injection-providers
 https://angular.dev/guide/di/dependency-injection-context
-CanActivateFn are not displayed as source codes.
+
 
 https://angular.dev/guide/di/hierarchical-dependency-injection
+https://angular.dev/guide/di/hierarchical-dependency-injection#visibility-of-provided-tokens
 
+https://angular.dev/guide/di/di-in-action
+
+https://angular.dev/guide/di/lightweight-injection-tokens
+
+
+https://angular.dev/guide/directives
+https://angular.dev/guide/directives/directive-composition-api
 
 
 https://angular.dev/guide/components/importing
+
+
 https://angular.dev/guide/forms
+https://angular.dev/guide/forms/form-validation#validating-input-in-reactive-forms
+https://angular.dev/guide/forms/form-validation#defining-custom-validators
+
+https://angular.dev/guide/forms/dynamic-forms
+
+
+https://angular.dev/guide/routing
+
 https://angular.dev/guide/templates
 
+
 https://angular.dev/guide/signals
+https://angular.dev/guide/signals/rxjs-interop
+
+
+
+
+https://angular.dev/api/core/WritableSignal
+
+https://angular.dev/api/core/ChangeDetectorRef#markforcheck
+
+https://angular.dev/api/forms/Validators
+
+https://angular.dev/api/router/Route#componentless-routes
+
+
+
+https://angular.dev/best-practices/skipping-subtrees
+
+
 
 https://angular.dev/roadmap
 

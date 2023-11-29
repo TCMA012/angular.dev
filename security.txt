@@ -1,0 +1,4 @@
+https://angular.dev/guide/http/security
+your server needs to set a token in a JavaScript readable session cookie called XSRF-TOKEN on either the page load or the first GET request.
+
+https://security.stackexchange.com/questions/255007/cookie-to-header-token-csrf-protection

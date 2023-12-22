@@ -1,0 +1,31 @@
+run ng test for a single file
+command line to run single test spec file
+ng test spec file
+
+https://www.cloudhadoop.com/angular-run-single-testfile
+
+Angular CLI provides the --include option to include a regular expression for including single or multiple files/folders.
+
+
+ng test --include=**/my.component.spec.ts // single file
+ng test --include'**/service/*.spec.ts // multiple files inside a folder
+
+// single file
+npm run test -- --include src/app/my.component.spec.ts
+
+// all files inside the service folder
+npm run test -- --include src/app/service
+
+
+
+
+ng test --no-watch --no-progress --include=**/random_number_generator.spec.ts
+
+ng test --no-watch --no-progress --include=**/mastery2/*.spec.ts 
+
+
+
+ng test --no-watch --no-progress --browsers=ChromeHeadless --include=**/mastery2/*.spec.ts
+
+
+
